@@ -1,1 +1,4 @@
-# gh-flow-fizzbuzz
+# gh flow fizzbuzz
+
+## Index
+- How to start
